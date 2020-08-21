@@ -141,7 +141,7 @@ h4 {
     display: none;
 }
 
-@media (max-width:800px) {
+@media (max-width: 800px) {
     header {
         padding: 0 20px;
     }
@@ -189,8 +189,7 @@ h4 {
     .text {
         text-align: center;
         color: white;
-        margin-top;
-        50px
+        margin-top: 50px;
     }
     h3 {
         font-size: 20px;
